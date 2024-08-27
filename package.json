@@ -1,0 +1,11 @@
+{
+  "name": "flappybird",
+  "version": "1.0.0",
+  "description": "A simple flappy bird game built with Java.",
+  "scripts": {
+    "start": "./start.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
